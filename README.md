@@ -10,7 +10,7 @@ The journey started with Data cleaning, ensuring that there should be no null or
 Next step is to Data Processing,  describes any type of processing performed on raw data to prepare it for another data processing procedure. 
 Then, I dived deep into analysis, uncovering trends, patterns, and opportunities. Finally, crafted a robust data model that has the potential to drive strategic decision-making.
 ## Dashboard
-![12 03 2024_20 29 10_REC](https://github.com/alinasoy/Clothing-store-sales-analysis/assets/127585848/3dc8312d-c047-445f-b73c-aec5d0bc1049)
+![Screenshot 2024-12-02 020519](https://github.com/user-attachments/assets/1d8b3993-21b5-4663-b5df-ca34a2277e2c)
 ## Sample Questions
 1.Compare the sales and orders using single chart<br>2.Which month got the highest sales and orders?<br>3.Who purchased more men or women in 2023?<br>4.What are the different order status in 2023?<br>5.List top 5 states contributing to the sales.<br>6.Relation between age and gender based on number.<br>7.Which channel is contributing to maximum sales?<br>8.Highest selling category.
 ## Insight
